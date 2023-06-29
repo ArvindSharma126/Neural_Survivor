@@ -1,6 +1,7 @@
 # Neural_Survivor
-Repository for the writer verification challenge
-
+Repository for the writer verification challenge.
+please make sure that dataset is in the folder 'dataset' in the same dir as these notebooks.
+please make sure that semi_test is in the folder 'semi_test' in the same dir as these notebooks.
 
 # training code
 The training has been done on the notebooks in four parts:
