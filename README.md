@@ -9,7 +9,7 @@ The training has been done on the notebooks in four parts:
 In this notebook the preprocessing has been done i.e.
 
 1. resize to 500 x 50 size.
-2. rename to <folder>_<file name> for easier access
+2. rename to "folder"_"file name" for easier access
 3. make csv file for pairs in training set
 
 ## training_2.ipynd
@@ -27,4 +27,4 @@ Then we load images one by one and do the prediction.
 torch part convert the images into features, and KKN is used to do the prediction.
 
 # model_checkpoint_and_final_model.txt
-It contain the google link for trained model
+It contains the google link for trained model
