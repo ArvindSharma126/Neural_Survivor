@@ -28,4 +28,4 @@ Then we load images one by one and do the prediction.
 torch part convert the images into features, and KKN is used to do the prediction.
 
 # model_checkpoint_and_final_model.txt
-It contains the google link for trained model
+It contains the google link for trained model and other intermediate stored files
