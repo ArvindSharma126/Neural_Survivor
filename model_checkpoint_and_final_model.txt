@@ -1,4 +1,4 @@
-from dataset500x50 only train_X,train_Y,val_X,val_Y : https://drive.google.com/file/d/1bfgsVn_MvMkL5g_0wfANV3uj2-2sG8uf/view?usp=sharing
+from dataset500x50 folder only train_X,train_Y,val_X,val_Y : https://drive.google.com/file/d/1bfgsVn_MvMkL5g_0wfANV3uj2-2sG8uf/view?usp=sharing
 best_auc_model : https://drive.google.com/file/d/1wqcODyaPE3AzGaWVVRtY9jsM0sT_6Ecn/view?usp=sharing
 train_X,train_Y from main dir : https://drive.google.com/file/d/1k7A_A4bDH-HdljN9iIOom2r0Q6857cSq/view?usp=sharing
 final model : https://drive.google.com/file/d/1-22mCtOXYxHi_4JWcRCiiHEbTt6s2zJ2/view?usp=sharing
